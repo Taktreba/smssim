@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fd7bdd78-0387-4f6d-9be5-7af98e42ee5e" name="smspva" url="http://h96835zi.beget.tech">
+        <fileTransfer host="h96835zi.beget.tech" port="21" rootFolder="/h96835zi.beget.tech/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
